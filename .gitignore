@@ -1,0 +1,13 @@
+
+00_Group_Project_02_ETL/.ipynb_checkpoints/nba_etl-checkpoint.ipynb
+00_Group_Project_02_ETL/.ipynb_checkpoints/Scrape_NBA_Stats-checkpoint.ipynb
+00_Group_Project_02_ETL/data/nba_salary_data_03_to_17.csv
+00_Group_Project_02_ETL/data/nba_team_stats_00_to_18.csv
+00_Group_Project_02_ETL/ELT Technical Report.docx
+00_Group_Project_02_ETL/nba_etl.ipynb
+00_Group_Project_02_ETL/README.md
+00_Group_Project_02_ETL/salary_by_team_2003_to_2017.png
+00_Group_Project_02_ETL/schema/create_team_stats.sql
+00_Group_Project_02_ETL/Scrape_NBA_Stats.ipynb
+00_Group_Project_02_ETL/team_salary_vs_wins_2003_to_2017.png
+00_Group_Project_02_ETL/wins_by_team_2003_to_2017.png
